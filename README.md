@@ -9,5 +9,5 @@ Open the KanaAdder.py file and change the values of the variables READING_FIELD,
 
 # Common Error
 Sometimes there will be one or more hiragana characters than needed. The error happens when the reading from the japanese support addon  also contains a hiragana character between two kanji characters. For example the word 間に合う.
-The reading field would look like this: 間に合[まにあ]う
+The reading field would look like this: 間に合[まにあ]う  
 Then the kana field look like this: にまにあう
